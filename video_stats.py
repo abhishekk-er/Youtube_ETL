@@ -70,4 +70,4 @@ def get_video_ids(playlistId):
 
 if __name__ == "__main__":
     playlistId = get_playlist_id()
-    print(get_video_ids(playlistId))
+    get_video_ids(playlistId)
